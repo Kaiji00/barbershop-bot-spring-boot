@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BarbershopBotApplication {
 
     public static void main(String[] args) {
+        System.out.println("Hello");
         SpringApplication.run(BarbershopBotApplication.class, args);
     }
 
